@@ -1,0 +1,25 @@
+
+img[alt$="-result"]{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 400px;
+}
+
+table{
+ margin-left: auto;
+ margin-right: auto;
+}
+
+figure{
+ text-align: center;
+}
+
+h{
+ font-family: sans-serif;
+}
+
+body{
+ font-size: 75%;
+ font-family: serif;
+}
